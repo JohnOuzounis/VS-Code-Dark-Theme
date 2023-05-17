@@ -1,0 +1,26 @@
+{
+  "name": "theme-dark-vscode",
+  "displayName": "JohnOuz-Dark++",
+  "description": "VS Code Dark theme",
+  "version": "1.0.0",
+  "publisher": "JohnOuz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnOuzounis/VS-Code-Dark-Theme"
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark++-color-theme.json"
+      }
+    ]
+  }
+}
