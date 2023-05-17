@@ -77,26 +77,36 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#5ca1da"
 			}
 		},
 		{
-			"name": "Language Constants",
+			"name": "Constants",
 			"scope": [
 				"constant.language",
 				"support.constant",
 				"variable.language",
-				"entity.name.function.preprocessor"
+				"entity.name.function.preprocessor",
 			],
 			"settings": {
-				"foreground": "#569CD6"
+				"fontStyle": "bold",
+				"foreground": "#999ee2"
 			}
 		},
 		{
-			"name": "Constants and enums",
+			"name": "Constant Enums",
+			"scope": [
+				"variable.other.enummember"
+			],
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#62b6fb"
+			}
+		},
+		{
+			"name": "Constant Number",
 			"scope": [
 				"constant.numeric",
-				"variable.other.enummember",
 				"keyword.operator.plus.exponent",
 				"keyword.operator.minus.exponent"
 			],
