@@ -77,7 +77,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#5ca1da"
+				"foreground": "#629bca"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 				"keyword.operator.minus.exponent"
 			],
 			"settings": {
-				"foreground": "#B5CEA8"
+				"foreground": "#bae4a3"
 			}
 		},
 		{
@@ -153,7 +153,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#e7f67d"
+				"foreground": "#ced87e"
 			}
 		},
 		{
@@ -200,14 +200,14 @@
 			"name": "Strings: Regular Expressions",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#b0735b"
 			}
 		},
 		{
 			"name": "Strings: Symbols",
 			"scope": "constant.other.symbol",
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#b0735b"
 			}
 		},
 		{
@@ -291,7 +291,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#d38a6d"
 			}
 		},
 		{
