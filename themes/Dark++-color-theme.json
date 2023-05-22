@@ -100,7 +100,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#62b6fb"
+				"foreground": "#58adf4"
 			}
 		},
 		{
@@ -153,7 +153,8 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#ced87e"
+				"foreground": "#cac77b",
+				"fontStyle": "bold"
 			}
 		},
 		{
