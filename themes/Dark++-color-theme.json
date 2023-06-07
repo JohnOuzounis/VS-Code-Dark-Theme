@@ -47,7 +47,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#f6f9d4"
+				"foreground": "#f9fec3e3"
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#ec7ad3"
+				"foreground": "#fb8effba"
 			}
 		},
 		{
@@ -153,7 +153,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#cac77b",
+				"foreground": "#e8e58ae1",
 				"fontStyle": "bold"
 			}
 		},
